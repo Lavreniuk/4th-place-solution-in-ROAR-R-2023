@@ -14,7 +14,7 @@ The second task requires that the models' predictions are compliant with the 243
 - <a href='#dep'>Dependencies and data preparation</a>
 - <a href='#training'>Training</a>
 - <a href='#testing'>Testing</a>
-- <a href='#prostprocessing'>Post-processing</a>
+- <a href='#post-processing'>Post-processing</a>
 
 
 
